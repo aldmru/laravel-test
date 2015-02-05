@@ -1,0 +1,2 @@
+<h1> Hola, soy una vista </h1>
+<h2>{{ $a['b'] }}</h2>
